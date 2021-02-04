@@ -46,3 +46,9 @@ execution are essentially how such a brute force attack would be carried out. Se
 *Note: It would take [54.02](https://tmedweb.tulane.edu/content_open/bfcalc.php?uc=4&lc=4&nu=1&sc=1&ran=&rans=&dict=)
 days to break such a 10 char password (1 valid combination). So it stands to reason it would be considerably
 less to guess an 80% off coupon and complete the challenge when you consider there are likely many valid combinations*
+
+## Misc.
+
+[PFM Project](https://github.com/jameone/PFM)
+* [Task One](https://github.com/jameone/PFMTaskOne)
+* [Task Two](https://github.com/jameone/PFM_task_two)
