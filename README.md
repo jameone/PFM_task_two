@@ -17,8 +17,7 @@ demo application.
 
 2. Vulnerable Components - Here we will examine JSON Web Tokens (or JWTs) which is an authentication 
    mechanism employed by the Juice Shop application. Specifically we will discuss how this mechanism
-   is being underutilized/incorrectly employed. We will then suggest some logic modifications which
-   may alleviate some forms of injections attacks. There is also a number of high severity
+   is being underutilized/incorrectly employed, as there are a number of high severity
    vulnerabilities raised with ``jsonwebtoken@0.4.0`` (the version employed by the Juice Shop). 
    
     * [Exploit Example](vulnerable_components/example.md)
