@@ -16,3 +16,9 @@ exists. The only check it to ensure the user is authenticated.
 ## Action
 
 * **Recommend a code review and update business logic for next deployment.**
+
+## Misc.
+
+[PFM Project](https://github.com/jameone/PFM)
+* [Task One](https://github.com/jameone/PFMTaskOne)
+* [Task Two](https://github.com/jameone/PFM_task_two)
