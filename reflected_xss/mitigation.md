@@ -10,7 +10,7 @@ sanitization it `innerHTML` was called with
 `<iframe src="javascript:alert(`This is a relfective XSS attack vector.`)">`. Instead of parsing the data
 as a string, the method assumed we wanted to add a child node.
 
-Line #13 is causing the issue may be seen [here](https://github.com/bkimminich/juice-shop/blob/master/frontend/src/app/search-result/search-result.component.html).
+Line #13 is causing the issue may be seen [here](https://github.com/bkimminich/juice-shop/blob/master/frontend/src/app/search-result/search-result.component.html#L13).
 ```angular2html
     ...
     <span id="searchValue" [innerHTML]="searchValue"></span>
